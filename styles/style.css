@@ -249,19 +249,20 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
   width: 183px;
   height: 35px;
-  position: absolute;
+  position: relative;
   left: -16px;
-  top: 0;
 }
 
 .footer__author {
-  position: absolute;
-  bottom: 0;
+  position: relative;
   left: -16px;
   margin-top: 18px;
   line-height: 25px;
