@@ -7,4 +7,4 @@
 * Flexbox;
 * Семантическая разметка;
 * Абсолютное и относительное позиционирование; 
-Вы можете перейти на сайт по [ссылке](https://nail-ya.github.io/how-to-learn/index.html)
+ Вы можете перейти на сайт по [ссылке](https://nail-ya.github.io/how-to-learn/index.html)
